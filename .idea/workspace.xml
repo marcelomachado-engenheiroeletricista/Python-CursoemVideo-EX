@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e50a0e55-d669-4ade-a3d4-c07083bae13b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZS88iY8KeJh46oQiGN3gP2mV7G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marce\PycharmProjects\PythonExercicios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ex114Siteestáacessível (1)">
+    <configuration name="ex0104ValidandoentradadedadosemPython" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex0104ValidandoentradadedadosemPython.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex113FunçõesaprofundadasemPython" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\marce\PycharmProjects\PythonExercicios\ex113FunçõesaprofundadasemPython.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex114Siteestáacessível (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex114Siteestáacessível.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex114Siteestáacessível" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\marce\PycharmProjects\PythonExercicios\ex114Siteestáacessível.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sistema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex115" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex115/sistema.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex114Siteestáacessível (1)" />
+        <item itemvalue="Python.sistema" />
+        <item itemvalue="Python.ex114Siteestáacessível" />
+        <item itemvalue="Python.ex113FunçõesaprofundadasemPython" />
+        <item itemvalue="Python.ex0104ValidandoentradadedadosemPython" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e50a0e55-d669-4ade-a3d4-c07083bae13b" name="Default Changelist" comment="" />
+      <created>1584820976358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584820976358</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="19" key="#Inspections" timestamp="1586043973569">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="19" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1586043973569" />
+    <state x="819" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584911330207">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="819" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584911330207" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587940759313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1587940759313" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587682893302" />
+    <state x="843" y="119" key="FileChooserDialogImpl" timestamp="1588212791940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="843" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1588212791940" />
+    <state x="843" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588201622109" />
+    <state width="1345" height="65" key="GridCell.Tab.0.bottom" timestamp="1588212968202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="385" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1588212048639" />
+    <state width="1259" height="126" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1588170432264" />
+    <state width="1345" height="65" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588212968202" />
+    <state width="1345" height="65" key="GridCell.Tab.0.center" timestamp="1588212968202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="385" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1588212048638" />
+    <state width="1259" height="126" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1588170432264" />
+    <state width="1345" height="65" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588212968202" />
+    <state width="1345" height="65" key="GridCell.Tab.0.left" timestamp="1588212968202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="385" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1588212048638" />
+    <state width="1259" height="126" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1588170432264" />
+    <state width="1345" height="65" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588212968202" />
+    <state width="1345" height="65" key="GridCell.Tab.0.right" timestamp="1588212968202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="385" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1588212048639" />
+    <state width="1259" height="126" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1588170432264" />
+    <state width="1345" height="65" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588212968202" />
+    <state width="555" height="210" key="GridCell.Tab.1.bottom" timestamp="1585476726024">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="555" height="210" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585476726024" />
+    <state width="555" height="210" key="GridCell.Tab.1.center" timestamp="1585476726021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="555" height="210" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585476726021" />
+    <state width="555" height="210" key="GridCell.Tab.1.left" timestamp="1585476726021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="555" height="210" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585476726021" />
+    <state width="555" height="210" key="GridCell.Tab.1.right" timestamp="1585476726021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="555" height="210" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585476726021" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1584911711335">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584911711335" />
+    <state x="1736" y="154" width="910" height="526" key="com.intellij.ide.util.TipDialog" timestamp="1589489572533">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state x="1736" y="154" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1589489572533" />
+    <state x="466" y="189" width="910" height="526" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588170469992" />
+    <state x="836" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587425309620">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="836" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1587425309620" />
+    <state x="701" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587490949198">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="701" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587490949198" />
+  </component>
+</project>

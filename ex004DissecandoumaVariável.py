@@ -1,0 +1,5 @@
+n1 = input('Digite algo: ')
+print('Qual o tipo primitivo:', type(n1))
+print('O valor é numerico:',n1.isnumeric())
+print('O valor é maiusculo:',n1.isupper())
+print('O valor é minusculo:',n1.islower())
